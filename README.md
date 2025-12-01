@@ -16,7 +16,7 @@ Welcome,
 <br>
     
 <div style="display: inline_block">
-<h2>Tecnologies:</h2>
+<h2>Tecnologies</h2>
 
 <br>
 
