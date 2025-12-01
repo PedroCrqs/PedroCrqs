@@ -2,8 +2,11 @@
 
 Welcome,
 
-I'm 28 years old, I'm Brazilian and I aspire to be a Full Stack developer.
+- 28yo
+- Brazilian
+- Full Stack dev
 
+ 
  <div>
    <a href="https://github.com/pedrocrqs">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocrqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,7 +16,7 @@ I'm 28 years old, I'm Brazilian and I aspire to be a Full Stack developer.
 <br>
     
 <div style="display: inline_block">
-<h2>Habilities:</h2>
+<h2>Tecnologies:</h2>
 
 <br>
 
