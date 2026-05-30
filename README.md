@@ -2,9 +2,9 @@
 
 Welcome,
 
-- 28yo
 - Brazilian
-- Full Stack dev
+- Back-end Developer
+- Software Engineering
 
 <div align="center">
   <img height="48%" src="https://streak-stats.demolab.com?user=PedroCrqs&theme=tokyonight"/>
