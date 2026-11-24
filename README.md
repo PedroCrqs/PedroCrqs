@@ -28,6 +28,15 @@ Welcome,
 <img align="center" alt="VSCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="center" alt="PowerShell" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img align="center" alt="Notion" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+<img align="center" alt="Notion" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center" alt="Notion" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="Notion" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="center" alt="Notion" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="Notion" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="center" alt="Notion" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zed/zed-original.svg" />
+<img align="center" alt="Notion" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antigravity/antigravity-original.svg" />
+
+
 </div>
  
 <br>
