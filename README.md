@@ -8,7 +8,7 @@ Welcome,
 
 <div align="center">
   <img height="48%" src="https://streak-stats.demolab.com?user=PedroCrqs&theme=tokyonight"/>
-  <img height="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroCrqs&layout=compact&theme=tokyonight"/>
+  <img height="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=PedroCrqs&layout=donut&langs_count=4&theme=dracula"/>
 </div
     
 <br>
